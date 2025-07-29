@@ -26,6 +26,12 @@
 
 ---
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ramadani-coding/Ramadani-coding/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ramadani-coding/Ramadani-coding/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Ramadani-coding/Ramadani-coding/output/pacman-contribution-graph.svg">
+</picture>
+
 [![](https://visitcount.itsvg.in/api?id=Ramadani-coding&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
